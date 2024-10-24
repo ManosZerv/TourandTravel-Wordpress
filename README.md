@@ -10,3 +10,7 @@ This repository contains the source and setup files for the **Tour and Travel** 
   - Destination recommendations
   - Travel blogs and tips
   - Contact form for inquiries
+
+## License
+
+This project is licensed under the Apache License 2.0 .
